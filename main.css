@@ -1,0 +1,10 @@
+.coord {
+  background-color: black;
+  color: cornsilk;
+  width: 135px;
+  position: fixed;
+}
+/* Add your CSS styles here */
+canvas {
+  border: 1px solid black; /* For example, to see the canvas boundaries */
+}

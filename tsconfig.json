@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    // ...
+  },
+  "include": [
+    "./*.ts", // This includes all TypeScript files in the root directory
+    "./pdfworker.d.ts" // This explicitly includes your declaration file
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
